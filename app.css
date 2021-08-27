@@ -1,6 +1,11 @@
 h3
 {
     text-decoration: underline;
+    color: #66BFBF;
+}
+
+h1{
+    color: #66BFBF;
 }
 
 img
@@ -8,4 +13,16 @@ img
     border-radius: 50%;
     width: 190px;
     height: 190px;
+}
+
+body{
+    background-color: #EAF6F6;
+}
+
+hr{
+    border-style: none;
+    border-color: gray;
+    border-width: 5px;
+    border-top-style: dotted;
+    width: 5%;
 }
